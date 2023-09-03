@@ -1,0 +1,2 @@
+name1@examplemail.com:pass1
+name2@examplemail.com:pass2
